@@ -9,7 +9,7 @@
     "48": "icon48.png",
     "128": "icon128.png"
   },
-  "homepage_url": "https://github.com/zach-adams/simple-new-tab-url",
+  "homepage_url": "https://github.com/Gibdos/simple-new-tab-url",
   "minimum_chrome_version": "88",
   "options_page": "options.html",
   "chrome_url_overrides": {
